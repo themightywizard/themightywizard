@@ -15,9 +15,9 @@
 body { margin: 0 auto; background: #eeeeee; font-family: 'PT Sans', sans-serif; }
 #wrapper { width: 960px; margin: 0 auto; }
 h2 { font-size: 38px; color: #202021; border-bottom: 4px solid #f5576c; display: inline; padding-top: 10px; margin-bottom: 10px; text-align: center;}
-header { height: 200px; background: #ffffff; padding-top: 20px; }
-	.logo-soc { height: 120px; border-bottom: 2px solid #eeeeee; }
-	.logotip { width: 431px; height: 120px; float: left; background: url(https://themightywizard.github.io/tmw/Ballet/https://themightywizard.github.io/tmw/Ballet/logotip.png) center/cover;}
+header { height: 180px; background: #ffffff; padding-top: 20px; }
+	.logo-soc { height: 100px; border-bottom: 2px solid #eeeeee; }
+	.logotip { width: 431px; height: 79px; float: left; background: url(https://themightywizard.github.io/tmw/Ballet/img/logo.png) no-repeat;}
 	.navbar { padding-top: 10px;}
 	.navbar li { display: inline; margin-left: 10px; }
 	.navbar a { background: #f5576c; border-radius: 4px; font-weight: 600; padding: 8px 10px; font-size: 20px; border-bottom: 2px solid #be525f; text-decoration: none; color: #ffffff; }
@@ -30,7 +30,7 @@ header { height: 200px; background: #ffffff; padding-top: 20px; }
 	.soc ul { list-style: none; margin: 0; padding: 0;}
 	.soc li { margin: 0; padding: 0; }
 	.soc p {margin: 0; padding: 0; font-size: 26px; font-weight: 600;}
-section.slider { height: 600px; }
+section.slider { height: 600px; background: url(https://themightywizard.github.io/tmw/Ballet/img/bg2.jpg) center/cover; }
 
 section.aboutus { background: #ffffff; height: 170px; padding: 20px; }
 

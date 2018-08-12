@@ -17,7 +17,7 @@ body { margin: 0 auto; background: #eeeeee; font-family: 'PT Sans', sans-serif; 
 h2 { font-size: 38px; color: #202021; border-bottom: 4px solid #f5576c; display: inline; padding-top: 10px; margin-bottom: 10px; text-align: center;}
 header { height: 200px; background: #ffffff; padding-top: 20px; }
 	.logo-soc { height: 120px; border-bottom: 2px solid #eeeeee; }
-	.logotip { width: 431px; height: 120px; float: left; background: url(./img/logotip.png) center/cover;}
+	.logotip { width: 431px; height: 120px; float: left; background: url(https://themightywizard.github.io/tmw/Ballet/https://themightywizard.github.io/tmw/Ballet/logotip.png) center/cover;}
 	.navbar { padding-top: 10px;}
 	.navbar li { display: inline; margin-left: 10px; }
 	.navbar a { background: #f5576c; border-radius: 4px; font-weight: 600; padding: 8px 10px; font-size: 20px; border-bottom: 2px solid #be525f; text-decoration: none; color: #ffffff; }
@@ -61,7 +61,7 @@ section.image-grid-1 { background: #eeeeee; height: 390px; padding-top: 20px;}
 
 section.gymnastic { background: #ffffff; height: 420px; padding-top: 20px; }
 	.gymnastic p { font-size: 20px; margin: 10px; color: #404040; font-weight: 400; }
-	.gymnastic .logo { width: 320px; height: 320px; float: left; background: url(./img/l1.jpg) center/cover; border-radius: 10px; margin: 20px;}
+	.gymnastic .logo { width: 320px; height: 320px; float: left; background: url(https://themightywizard.github.io/tmw/Ballet/img/l1.jpg) center/cover; border-radius: 10px; margin: 20px;}
 	.gymnastic .text { width: 600px; height: 100%; float: left; padding-top: 7px;  }
 
 section.free { background: #eeeeee; height: 160px; }
@@ -73,7 +73,7 @@ section.free { background: #eeeeee; height: 160px; }
 
 section.horeo { background: #ffffff; height: 420px; padding-top: 20px; border-bottom: 4px solid #f5576c;}
 	.horeo p { font-size: 20px; margin: 10px; color: #404040; font-weight: 400;}
-	.horeo .logo { width: 320px; height: 320px; float: left; background: url(./img/l2.jpg) center/cover; border-radius: 10px; margin: 20px;}
+	.horeo .logo { width: 320px; height: 320px; float: left; background: url(https://themightywizard.github.io/tmw/Ballet/img/l2.jpg) center/cover; border-radius: 10px; margin: 20px;}
 	.horeo .text { width: 600px; height: 100%; float: left; padding-top: 15px;  }
 
 footer { height: 110px; background-color: #202021; }
